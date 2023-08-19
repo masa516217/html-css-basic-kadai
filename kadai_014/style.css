@@ -1,0 +1,36 @@
+html{
+  font-size: 125%;
+}
+
+body {
+  font-family: "Aria", "Meiryo", sans-serif;
+  text-align: center;
+}
+
+.colorskyblue {
+  color: skyblue;
+}
+
+.colorpink {
+  color: rgb(255, 192, 203);
+}
+
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 40px;
+  letter-spacing: 1.2em;
+  text-shadow: 3px 2px 2px gray;
+  border-bottom: solid rgb(115, 115, 114) 3px;
+}
+
+#basic p {
+  font-weight: bold;
+}
+
+ .allpink {
+  color: rgb(255, 192, 203);
+ }
+
+.allsky {
+  color: skyblue;
+}
